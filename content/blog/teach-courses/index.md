@@ -9,7 +9,6 @@ tags:
   - Hugo
   - Hugo Blox Builder
   - Markdown
-  - Edit
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -23,10 +22,6 @@ On this page, you'll find some examples of the types of technical content that c
 ## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-**Youtube**:
-
-{{< youtube v_xcEXxc8Zc >}}
 
 {{< youtube D2vj0WcvH5c >}}
 
